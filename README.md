@@ -1,6 +1,6 @@
 # 🗝️ La Clave | A secure local password tresor
 
-> *"Deine Passwörter. Sicher verwahrt." *
+> "Deine Passwörter. Sicher verwahrt." 
 
 <p align="center">
   <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.1/La.Clave_v1.1.1_release.apk">
