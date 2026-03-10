@@ -1,0 +1,19 @@
+{
+  "name": "laclave",
+  "version": "1.1.1",
+  "description": "Offline Password Manager",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "crypto-js": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
