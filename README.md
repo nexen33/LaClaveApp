@@ -58,7 +58,8 @@ _____________________________________________________
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40dada2c-b037-4bc3-a7b0-f21b8821add1" width="800" />
 </p>
-_____________________________________________________  
+
+
 <p align="center">
   <em>Viel Spaß damit!</em><br />
   <em>Entwickelt mit ❤️ von Tun&PaMa Familie</em><br />
