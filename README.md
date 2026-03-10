@@ -1,6 +1,6 @@
 # 🗝️ La Clave | A secure local password tresor
 
-> "Deine Passwörter. Sicher verwahrt." 
+> „Deine Passwörter. Sicher verwahrt.“ 
 
 <p align="center">
   <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.1/La.Clave_v1.1.1_release.apk">
@@ -8,8 +8,8 @@
   </a>
 </p>  
 
-当习惯在笔记里记录账号密码的人，发现连锤子便签被卖后都加了AI，不免得对于数据安全有一些担忧。
-**La Clave** 诞生于一个纯粹的想法：做一个**绝对离线、搜索便捷、安全加密**的密码管理器。
+当习惯在笔记里记录账号密码的人，发现连锤子便签被卖后都加了AI，不免得对于数据安全有一些担忧。  
+La Clave 诞生于一个纯粹的想法：做一个**绝对离线、搜索便捷、安全加密**的密码管理器。  
 前身是个人应用类App MyOmnis的一个隐藏功能，现作为独立App发布。
 
 没有云端同步，没有后台偷跑请求。你的数据，只有你能看见。
