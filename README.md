@@ -1,6 +1,6 @@
 # 🗝️ La Clave | A secure local password tresor
 
-> *"Deine Passwörter. Sicher verwahrt." (你的密码，安全保管)*
+> *"Deine Passwörter. Sicher verwahrt." *
 
 <p align="center">
   <a href="这里替换成你APK的真实下载链接">
@@ -56,9 +56,9 @@ _____________________________________________________
 
 _____________________________________________________  
 <p align="center">
-  <img src="图片链接" width="300" />
+  <img src="https://github.com/user-attachments/assets/40dada2c-b037-4bc3-a7b0-f21b8821add1" width="800" />
 </p>
 ---
-*Viel Spaß damit!*    
+*Viel Spaß damit!*  
 *Entwickelt mit ❤️ von Tun&PaMa Familie*  
 *Sicher ist sicher.* 
