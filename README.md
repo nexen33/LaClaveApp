@@ -3,7 +3,7 @@
 > *"Deine Passwörter. Sicher verwahrt." *
 
 <p align="center">
-  <a href="这里替换成你APK的真实下载链接">
+  <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.1/La.Clave_v1.1.1_release.apk">
     <img src="https://img.shields.io/badge/立即下载_LaClave_APK-blue?style=forthebadge" height="50">
   </a>
 </p>  
@@ -58,7 +58,9 @@ _____________________________________________________
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40dada2c-b037-4bc3-a7b0-f21b8821add1" width="800" />
 </p>
----
-*Viel Spaß damit!*  
-*Entwickelt mit ❤️ von Tun&PaMa Familie*  
-*Sicher ist sicher.* 
+_____________________________________________________  
+<p align="center">
+  <em>Viel Spaß damit!</em><br />
+  <em>Entwickelt mit ❤️ von Tun&PaMa Familie</em><br />
+  <em>Sicher ist sicher.</em>
+</p>
