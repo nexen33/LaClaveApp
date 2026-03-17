@@ -3,7 +3,7 @@
 > „Deine Passwörter. Sicher verwahrt.“ 
 
 <p align="center">
-  <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.1/La.Clave_v1.1.1_release.apk">
+  <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.1.2/La.Clave_v1.1.1.2_release.apk">
     <img src="https://img.shields.io/badge/立即下载_LaClave_APK-blue?style=forthebadge" height="50">
   </a>
 </p>  
