@@ -1,7 +1,50 @@
+# Environment & Archive Isolation
+.git_env/
+
+# Dependencies
 node_modules/
-build/
+.pnpm-store/
+
+# Build outputs
 dist/
-.env
-.DS_Store
+dist-ssr/
+build/
+.temp/
+
+# Android Studio / Gradle
+android/.gradle/
+android/.kotlin/
+android/app/build/
+android/app/release/
+android/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# Keystores and secrets
 *.jks
 *.keystore
+google-services.json
+
+# Logs & OS artifacts
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.local
+
