@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.5/La.Clave_v1.1.5_release.apk">
-    <img src="https://img.shields.io/badge/立即下载-La_Clave_v1.1.5_最新安装包-0284c7?style=for-the-badge&logo=android&logoColor=white" height="36" alt="下载安装包" />
+    <img src="https://img.shields.io/badge/点击下载_LaClave_最新安装包-blue?style=forthebadge" height="60">
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 权限透明说明
+## 权限说明
 
 以下是 La Clave 在 Android 系统配置文件中声明的全部权限及用途澄清：
 

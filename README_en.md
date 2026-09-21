@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/nexen33/LaClaveApp/releases/download/v1.1.5/La.Clave_v1.1.5_release.apk">
-    <img src="https://img.shields.io/badge/Download_APK-La_Clave_v1.1.5_Latest_Release-0284c7?style=for-the-badge&logo=android&logoColor=white" height="36" alt="Download APK" />
+    <img src="https://img.shields.io/badge/Download_LaClave_Latest_APK-blue?style=forthebadge" height="60">
   </a>
 </p>
 
